@@ -2191,3 +2191,8 @@ height: 15px;
     margin-left: -7%;
   }
 }
+@media (max-width: 500px){
+  .gallery{
+    padding: 0%;
+  }
+}
