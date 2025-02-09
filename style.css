@@ -2196,3 +2196,8 @@ height: 15px;
     padding: 0%;
   }
 }
+@media (max-width: 500px){
+.card1 {
+   padding: 1rem;
+}
+}
