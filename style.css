@@ -2009,12 +2009,12 @@ height: 15px;
 
 @media(max-width:450px){
   .intro{
-    margin-top: 20vh;
+    margin-top: 30vh;
   }
 }
 
 @media (max-width: 500px) {
-  /* From Uiverse.io by mobinkakei */ 
+  
 .loader3 {
   --path: #2f3545;
   --dot: #5628ee;
