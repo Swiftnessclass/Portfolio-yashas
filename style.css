@@ -2199,6 +2199,12 @@ height: 15px;
 @media (max-width: 500px){
 .card1 {
    padding:0;
-   height:10vh ;
+  
 }
+}
+
+@media (max-width: 500px){
+  .pre{
+    font-size: 6px;
+  }
 }
