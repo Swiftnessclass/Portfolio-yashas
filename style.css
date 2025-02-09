@@ -264,7 +264,6 @@ padding: 30px;
 width: 100%;
 height: 30vh;
 border-radius: 10px;
-box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1);
 transition: transform 0.3s ease-in-out;
 }
 
@@ -1946,9 +1945,9 @@ height: 15px;
 @media(max-width: 800px){
 .aloysius{
   font-size: 13px;
-    max-width: 400px; /* Limits paragraph width */
-    word-wrap: break-word; /* Ensures words wrap properly */
-
+        max-width: 390px;
+        word-wrap: break-word;
+        padding: 5px;
 
 }
 }
