@@ -2199,5 +2199,6 @@ height: 15px;
 @media (max-width: 500px){
 .card1 {
    padding:0;
+   height:10vh ;
 }
 }
